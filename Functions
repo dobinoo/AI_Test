@@ -1,0 +1,28 @@
+Main Starter
+  - main script
+  - always run
+  - just starts the main script
+
+Main Program
+ - main program
+ - should do all speech to text
+ - starts other parts of program
+
+Internal Protocols
+  - Running internal programs
+
+Checking Words
+  - checking that if specific words exist in the sentence (what, Where ...)
+
+Specific websites
+  - adding websites support
+  - wikipedia
+  - matlab
+  - google
+  - youtube
+
+Prepared Answers
+  - for specific questions
+  - who are you?
+  - what is your purpose?
+  - ....
